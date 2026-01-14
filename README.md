@@ -16,13 +16,12 @@ DefectDetector/
 ---
 ## 🔹 실행법 (for Local PC)
 
-### Requirements
+### 👉 Requirements
 
 - OpenCV 4.12+  
 - CMake 3.16+  
-- C++17 compatible compiler
 
-### Build
+### 👉 Build
 
 ```
 mkdir build
@@ -31,7 +30,7 @@ cmake ..
 cmake --build . --config Release
 ```
 
-### Run (for Windows)
+### 👉 Run (for Windows)
 ```
 DefectDetector.exe
 ```
