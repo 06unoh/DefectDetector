@@ -40,7 +40,13 @@ DefectDetector.exe
 
 ## 🔹 결과
 
-결과 예시:
+```
+ㆍ Frame Size   :  640 × 480
+ㆍ Latency      :  약 50ms/frame
+ㆍ Throughput   :  약 20 FPS (EMA)
+```
+
+예시:
 
 ![샘플 예측 결과](assets/cpro_vis.jpg)
 
