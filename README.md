@@ -36,7 +36,6 @@ DefectDetector.exe
 ```
 ---
 
--
 
 ## 🔹 결과
 
